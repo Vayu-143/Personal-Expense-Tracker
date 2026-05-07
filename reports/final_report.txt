@@ -1,0 +1,16 @@
+
+==============================
+PERSONAL EXPENSE REPORT
+==============================
+
+Total Spending: 1306872
+
+Average Expense: 2613.74
+
+Highest Spending Category: Entertainment
+
+Remaining Budget: -1206872
+
+Overspent: True
+
+==============================
