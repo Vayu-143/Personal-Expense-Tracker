@@ -4,15 +4,33 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?style=for-the-badge&logo=streamlit)
 ![Plotly](https://img.shields.io/badge/Plotly-Visualization-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)
 
 ---
 
-# 📌 Project Overview
+# 📌 Live Demo
 
-The **Personal Expense Tracker** is a professional financial analytics and visualization system developed using Python and modern data analytics libraries.
+## 🚀 Streamlit Deployment
 
-This project simulates a real-world expense management platform capable of:
+👉 **Open Live Dashboard Here:**  
+
+[Personal Expense Tracker Live App](https://personal-expense-tracker-kthpnnggxobkxznsv8cpoo.streamlit.app/?utm_source=chatgpt.com)
+
+---
+
+# 📂 GitHub Repository
+
+👉 **View Source Code Here:**  
+
+[GitHub Repository](https://github.com/Vayu-143/Personal-Expense-Tracker?utm_source=chatgpt.com)
+
+---
+
+# 📖 Project Overview
+
+The **Personal Expense Tracker** is an industry-grade financial analytics and visualization system built using Python and modern data analysis libraries.
+
+This project simulates a real-world finance analytics platform capable of:
 
 - Expense Tracking
 - Financial Analysis
@@ -22,7 +40,7 @@ This project simulates a real-world expense management platform capable of:
 - Spending Trend Visualization
 - Automated Report Generation
 
-The system uses **synthetic financial datasets** to simulate realistic user spending behavior and generate business intelligence insights.
+The system uses **synthetic financial datasets** to simulate realistic user spending behavior and generate business intelligence insights. Expense tracking systems are widely used in personal finance management and business intelligence applications. :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -97,7 +115,7 @@ The main goals of this project are:
 # 🏗️ Project Architecture
 
 ```bash
-Personal-Expense-Tracker-Visualization/
+Personal-Expense-Tracker/
 │
 ├── app/
 │   ├── analytics.py
@@ -302,6 +320,8 @@ This project can be adapted for:
 - Business Intelligence Dashboards
 - Expense Forecasting Systems
 
+Expense tracker and budgeting systems are widely used in modern finance applications and analytics dashboards. :contentReference[oaicite:3]{index=3}
+
 ---
 
 # 🧠 Skills Demonstrated
@@ -353,12 +373,11 @@ Planned future upgrades:
 
 # 👨‍💻 Author
 
-Vayunandan Mishra
+## Vayunandan Mishra
 
 ### Connect With Me
 
-- LinkedIn:[https://www.linkedin.com/in/vayunandan-mishra-9590302a2/]
-- GitHub: https://github.com/Vayu-143
+- GitHub: [GitHub Profile](https://github.com/Vayu-143?utm_source=chatgpt.com)
 
 ---
 
@@ -367,3 +386,7 @@ Vayunandan Mishra
 Give this repository a ⭐ on GitHub.
 
 ---
+
+# 📜 License
+
+This project is licensed under the MIT License.
