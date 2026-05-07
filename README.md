@@ -1,4 +1,4 @@
-# 💰 Industry Grade Personal Expense Tracker
+# 💰 Personal Expense Tracker
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green?style=for-the-badge)
@@ -10,7 +10,7 @@
 
 # 📌 Project Overview
 
-The **Industry Grade Personal Expense Tracker** is a professional financial analytics and visualization system developed using Python and modern data analytics libraries.
+The **Personal Expense Tracker** is a professional financial analytics and visualization system developed using Python and modern data analytics libraries.
 
 This project simulates a real-world expense management platform capable of:
 
@@ -208,7 +208,7 @@ Overspending Detection
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Industry-Grade-Personal-Expense-Tracker.git
+git clone https://github.com/Vayu-143/Personal-Expense-Tracker.git
 ```
 
 ---
@@ -216,7 +216,7 @@ git clone https://github.com/yourusername/Industry-Grade-Personal-Expense-Tracke
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd Industry-Grade-Personal-Expense-Tracker
+cd Personal-Expense-Tracker
 ```
 
 ---
@@ -367,7 +367,3 @@ Vayunandan Mishra
 Give this repository a ⭐ on GitHub.
 
 ---
-
-# 📜 License
-
-This project is licensed under the MIT License.
